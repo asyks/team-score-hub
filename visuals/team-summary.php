@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Team Health Survey</title>
+<title>Team Health Score Summary</title>
 <link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 <link rel="stylesheet" href="/styles/main.css"/>
 

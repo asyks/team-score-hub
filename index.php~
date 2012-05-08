@@ -77,31 +77,31 @@
 		</br>
 		View the Results:
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/team-summary.php>Team Summary</a>
+		<a href=/visuals/team-summary.php>Team Summary</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/team-breakouts.php>Team Breakouts</a>
+		<a href=/visuals/team-breakouts.php>Team Breakouts</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/chiquita.php>Chiquita</a>
+		<a href=/visuals/chiquita.php>Chiquita</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/vitrue.php>Vitrue</a>
+		<a href=/visuals/vitrue.php>Vitrue</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/bumble.php>Bumble & Bumble</a>
+		<a href=/visuals/bumble.php>Bumble & Bumble</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/lenox.php>LENOX</a>
+		<a href=/visuals/lenox.php>LENOX</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/5he.php>5 Hour Energy</a>
+		<a href=/visuals/5he.php>5 Hour Energy</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/rackspace.php>Rackspace</a>
+		<a href=/visuals/rackspace.php>Rackspace</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/htc.php>HTC</a>
+		<a href=/visuals/htc.php>HTC</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/disney.php>Disney</a>
+		<a href=/visuals/disney.php>Disney</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/levolor.php>Levolor</a>
+		<a href=/visuals/levolor.php>Levolor</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/modeacare.php>ModeaCare</a>
+		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
-		<a href=http://seo.modeaondemand.com/visuals/modea.php>Modea (internal projects)</a>
+		<a href=/visuals/modea.php>Modea (internal projects)</a>
 	
 		<!--Social buttons: Facebook, Twitter, Google+-->
 		<div id="social" class="social">
