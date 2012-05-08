@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>SEO Playground</title>
+	<title>Team Health Score</title>
 	<link rel="stylesheet" href="/styles/main.css"/>
 	<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 	<!-- Google Analytics Base Code -->
@@ -70,7 +70,7 @@
 
 	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
-		<!--<?php print ($_SERVER ['REMOTE_ADDR']);?>-->
+	Team Health Score:
 		</br>
 		<a href=/survey.html>Take the Survey</a>
 		</br>
