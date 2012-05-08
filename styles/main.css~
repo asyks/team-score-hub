@@ -1,0 +1,159 @@
+.clear {
+	clear:both;
+}
+
+div#content {
+	width: 500px;
+	height: 420px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	color: #666;
+	font-family: verdana, sans-serif;
+	font-size: 1.2em;
+	background-color: #FFFFFF;
+	padding: .2em
+}
+
+div#social {
+	width: 500px;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	color: #666;
+	font-family: verdana, sans-serif;
+	font-size: 1.2em;
+	background-color: #FFFFFF;
+	padding: .2em;
+	top: 50px;
+	right: 4px;
+}
+
+div#fb-root {
+	width: 500px;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	background-color: #FFFFFF;
+	padding-top: .5em
+}
+
+img#logo {
+	padding:.2em
+}
+
+h1 {
+	font-weight:bold;
+	font-family: verdana, sans-serif;
+	font-size: 2.5em;
+	color:#666;
+	text-align:center
+}
+
+.formbody {
+	width:42%;
+	padding:.5em;
+	font-family:verdana, sans-serif;
+	color:#666;
+	text-align:left;
+	position:relative;
+	left:29%
+}
+
+.formtext {
+	font-weight:normal;
+	font-size:1em;
+	padding-top:.1em;
+	padding-bottom:.1em
+}
+
+.formheader {
+	font-weight:bold;
+	font-size:1.5em;
+	padding-top:.1em;
+	padding-bottom:.1em
+}
+
+.projecttitle {
+	width:100%;
+	font-weight:bold;
+	padding-top:.3em;
+	padding-bottom:.3em
+}
+
+.projectlist {
+	width:33.3%;
+	float:left
+}
+
+.boxtext {
+	width:100%;
+	font-weight:normal;
+	font-size:1em
+}
+
+.boxtext2 {
+	width:100%;
+	font-weight:normal;
+	font-size:1em;
+	padding-top: .6em;
+	padding-bottom: .6em
+}
+
+div#surveys {
+	width: 42%;
+	position:relative;
+	left: 29%
+}
+
+.title {
+	font-family:verdana, sans-serif;
+	font-size: 5em;
+	color:#666
+}
+
+.container {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.sum_body {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: auto;
+	font-family:verdana, sans-serif;
+	color:#666;
+	text-align:left;
+	position:relative
+}
+
+.sum_vis1 {
+	width: 40%;
+	position: relative;
+	float: left
+}
+
+.sum_vis2 {
+	width: 30%;
+	position: relative;
+	float: right
+}
+
+.sum_vis3 {
+	width: 30%;
+	position: relative;
+	float: left
+}
+
+.project_images {
+	width: 978px;
+	margin: 0px;
+	position: relative
+}
+
+
+
+

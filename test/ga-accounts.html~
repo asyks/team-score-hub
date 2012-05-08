@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+
+<script src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+
+<script type="text/javascript">
+	gapi.client.load('analytics', 'v3', function() { console.log('loaded.'); });
+	gapi.client.setApiKey('AIzaSyA7Tgpk-nBkJeNtqbR8xD0bl7bXEyRY0zw');
+	google.load('visualization', '1', {packages:['table']});
+     	
+	function drawTables() {loadTable1();}
+
+	google.setOnLoadCallback(drawTables);
+
+      	function loadTable1() {
+		var query = new google.visualization.Query("https://www.google.com/analytics/feeds/data?ids=ga%3A57017597&dimensions=ga%3Abrowser&metrics=ga%3Avisitors&start-date=2012-04-04&end-date=2012-04-18&max-results=50");
+		query.send(drawTable1);
+	}
+
+	function drawTable1(chartData) {
+	        var options1 = {
+        	  width: 500, 
+		  showRowNumber: false
+		};
+
+		var table1 = new google.visualization.Table(document.getElementById('table1'));
+		table1.draw(chartData.getDataTable(),options1);	
+	}
+
+</script>
+
+</head>
+
+
+<body>
+	<div id="table1"></div>
+
+</body>
+
+
+</html>

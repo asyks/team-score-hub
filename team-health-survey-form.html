@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Team Health Survey Form</title>
+<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
+<link rel="stylesheet" href="/styles/main.css"/>
+	
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<!--JQuery and AJAX for Google Docs-->
+<script type=text/javascript>
+	function countChecked() {
+		$('#surveys2').empty();
+		var iframetag = '<iframe src="https://docs.google.com/a/modea.com/spreadsheet/embeddedform?formkey=dGpYYXpUVjhCUzFlN0tKV2FOOUFhRkE6MQ" width="760" height="1104" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>';
+  		var n = $("input:checked").size();
+		for(var x = 0; x < n; x++) { $("#surveys2").append(iframetag);}
+		}
+</script>
+
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-272061-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+	var iframe = document.getElementById(iframetag);
+	iframe.src = pageTracker._getLinkerUrl('http://www.my-example-iframecontent.com/');
+
+</script>
+	
+</head>
+
+<body>
+<div class="formbody">
+	<img src="/images/modea_logo.png"/>
+	<div class="formheader">Read This First:</div>
+	<div class="formtext">Select the projects you have been involved with over the last week and then click the 'Enter' button. If you do that and no forms are generated, log in to your Modea Google Apps account and refresh this page. <a href="https://accounts.google.com">Google Login</a></div>
+
+	<div class="projecttitle">Project Teams:</div>
+	
+		<div class="projectlist">
+			<input type="checkbox" name="box" id="box" value="1">Modea</br>
+			<input type="checkbox" name="box" id="box" value="2">HTC</br>
+			<input type="checkbox" name="box" id="box" value="3">LENOX</br>
+			<input type="checkbox" name="box" id="box" value="4">Disney</br>
+			<input type="checkbox" name="box" id="box" value="5">UVA Health System</br>
+		</div>
+		<div class="projectlist">
+			<input type="checkbox" name="box" id="box" value="6">Chiquita</br>
+			<input type="checkbox" name="box" id="box" value="7">Levolor</br>
+			<input type="checkbox" name="box" id="box" value="8">Bumble & Bumble</br>
+			<input type="checkbox" name="box" id="box" value="9">Newell Rubbermaid</br>
+			<input type="checkbox" name="box" id="box" value="10">Zegna</br>
+		</div>
+		<div class="projectlist">
+			<input type="checkbox" name="box" id="box" value="11">Vitrue</br>
+			<input type="checkbox" name="box" id="box" value="12">5 Hour Energy</br>
+			<input type="checkbox" name="box" id="box" value="13">Rackspace</br>
+			<input type="checkbox" name="box" id="box" value="14">ModeaCare</br>
+			<input type="checkbox" name="box" id="box" value="15">Riunite</br>
+		</div>
+		
+	<div class="clear"></div>
+	<div class="boxtext2">after you select your projects click here:<input type="submit" name="Enter" value="Enter"></div>
+
+
+	<div style="clear:both"></div>
+	<div id="surveys2"></div>
+
+	<script type="text/javascript">
+	countChecked();
+	$(":submit").click(countChecked);
+	</script>
+</div>
+
+</body>
+
+</html>
+
