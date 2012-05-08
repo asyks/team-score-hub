@@ -72,7 +72,7 @@
 	<div id="content">
 		<!--<?php print ($_SERVER ['REMOTE_ADDR']);?>-->
 		</br>
-		<a href=http://seo.modeaondemand.com/survey.html>Take the Survey</a>
+		<a href=http://seo.modeaondemand.com/survey-page.html>Take the Survey</a>
 		</br>
 		</br>
 		View the Results:
