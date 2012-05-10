@@ -75,8 +75,6 @@
 	
 	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
-	Team Health Score:
-		</br>
 		<a href=/survey.html>Take the Survey</a>
 		</br>
 		</br>
