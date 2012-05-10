@@ -68,7 +68,7 @@
 
 	<div id="index_header" class="header">
 	<img id="logo" src="/images/modea_logo.png"/>
-	<h2>Team Health Score</h2>
+	<div id="index_title"><h2>Team Health Score</h2></div>
 	</div>
 	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
