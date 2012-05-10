@@ -67,9 +67,10 @@
 <body bgcolor="#CCCCCC">
 
 	<div id="index_header" class="header">
-	<img id="logo" src="/images/modea_logo.png"/>
-	<div id="index_title">Team Health Score</div>
+		<img id="logo" src="/images/modea_logo.png"/>
+		<div id="index_title">Team Health Score</div>
 	</div>
+	
 	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
 	Team Health Score:

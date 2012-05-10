@@ -159,7 +159,7 @@ div#surveys {
 	position: relative
 }
 
-.index_title {
+div#index_title {
 	font-family:verdana, sans-serif;
 	color:#666;
 	background-color: #FFFFFF;
@@ -168,6 +168,8 @@ div#surveys {
 	text-align:center;
 	width: 500px;
 	margin-left: 250px;
+	position: absolute;
+	bottom: 42px
 }
 
 
