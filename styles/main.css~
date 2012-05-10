@@ -153,6 +153,20 @@ div#surveys {
 	position: relative
 }
 
+div#header {
+	width: 100%;
+	height: 120px;
+	position: relative
+}
 
+div#title {
+	font-family:verdana, sans-serif;
+	color:#666;
+	text-align:left;
+	background-color: #FFFFFF;
+	position:relative;
+	margin-bottom: 0px;
+}
+}
 
 
