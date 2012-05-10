@@ -160,12 +160,15 @@ div#surveys {
 }
 
 div#index_title {
-    background-color: #FFFFFF;
-    bottom: 72px;
     color: #666666;
     font-family: verdana,sans-serif;
     font-size: 2.5em;
     font-weight: bold;
+}
+
+div#floater {
+    background-color: #FFFFFF;
+    bottom: 82px;
     height: 74px;
     margin-bottom: 100px;
     margin-left: auto;
@@ -174,7 +177,6 @@ div#index_title {
     text-align: center;
     width: 500px;
 }
-
 
 
 
