@@ -165,7 +165,7 @@ div#title {
 	text-align:left;
 	background-color: #FFFFFF;
 	position:relative;
-	margin-bottom: 0px;
+	margin-bottom: 0px
 }
 }
 
