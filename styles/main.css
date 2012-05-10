@@ -164,6 +164,9 @@ div#index_title {
     font-family: verdana,sans-serif;
     font-size: 2.5em;
     font-weight: bold;
+    text-align: center;
+    padding: 10px;
+
 }
 
 div#floater {
@@ -174,7 +177,6 @@ div#floater {
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    text-align: center;
     width: 500px;
 }
 
