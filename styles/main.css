@@ -153,13 +153,13 @@ div#surveys {
 	position: relative
 }
 
-div#header {
+.header {
 	width: 100%;
 	height: 120px;
 	position: relative
 }
 
-div#title {
+.title1 {
 	font-family:verdana, sans-serif;
 	color:#666;
 	background-color: #FFFFFF;
