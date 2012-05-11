@@ -399,6 +399,37 @@
 		table12.draw(chartData.getDataTable(), {showRowNumber: false});	
 	}
 
+//13th Project Team: Visualization
+       function loadChart13() {
+	var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A25%3AE26&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=3&headers=-1");
+	query.send(drawChart13);
+      }
+
+      function drawChart13(chartData13) {
+
+        var options = {
+          width: 1200, height: 600,
+	  min: 0, max: 10,
+	  greenFrom:7, greenTo:10,
+	  yellowFrom:4, yellowTo: 7,
+	  redFrom: 0, redTo: 4,
+	  minorTicks: 5 
+        };
+
+        var chart13 = new google.visualization.Gauge(document.getElementById('visualization13'));
+	chart13.draw(chartData13.getDataTable(), options);
+      }
+	function loadTable13() {
+		var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A26&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=3&headers=1");
+		query.send(drawTable13);
+	}
+
+	function drawTable13(chartData) {
+		var table13 = new google.visualization.Table(document.getElementById('table13'));
+		table13.draw(chartData.getDataTable(), {showRowNumber: false});	
+	}
+
+
 
     </script>
 </head>
@@ -430,6 +461,8 @@
 <div id='visualization11'></div>
 <div id='table12' class="title"></div>
 <div id='visualization12'></div>
+<div id='table13' class="title"></div>
+<div id='visualization13'></div>
 </div>
 </body>
 
