@@ -34,7 +34,8 @@
 	  loadTable11();
 	  loadChart12();
 	  loadTable12();
-
+	  loadChart13();
+	  loadTable13();
       	}
       google.setOnLoadCallback(drawCharts);
 	
