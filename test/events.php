@@ -38,7 +38,7 @@
 	<img id="logo" src="/images/modea_logo.png"/>
 
 	<div id="content">
-	change test textLorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum  
+	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum  
 	Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit 
 		<form name="chiquita">
 		Product:<input type="text" name="product" onChange="getFormValues();"/>
