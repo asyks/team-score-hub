@@ -245,10 +245,9 @@ try{
 
 	<img id="logo" src="/images/modea_logo.png"/>
 	<div id="floater">
-		<div id="index_title">Team Health Score</div>
+		<div id="index_title">Social Test Page</div>
 	</div>
 
-	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
 	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum 
 	Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit 
