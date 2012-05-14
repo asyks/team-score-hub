@@ -5,19 +5,7 @@
 	<title>Team Health Score</title>
 	<link rel="stylesheet" href="/styles/main.css"/>
 	<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
-	<!-- Google Analytics Base Code -->
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-272061-2']);
-			_gaq.push(['_trackPageview']);
-			_gaq.push(['_trackPageLoadTime']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-	</script>
+	<script type="text/javascript" src="/js/ga-track.js"><>
 
 	<!-- Google Analytics Social Button Tracking -->
 	<script type="text/javascript" src="https://s3.amazonaws.com/ha_js/ga_social_tracking.js"></script>
