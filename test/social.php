@@ -249,7 +249,7 @@ try{
 	</div>
 
 	<div id="content">
-	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum 
+change text	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum 
 	Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit 
 	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum 
 	Dolor sedit Lorem Ipsum Dolor sedit
