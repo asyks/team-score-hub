@@ -1,6 +1,5 @@
 //
-//
-//
+// Base GA tracking code
 //
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-272061-9']);
@@ -13,10 +12,9 @@
   })();
 
 //
+//JQuery for GA event tracking
 //
-//
-//
-$('#search-form').submit(function (e){
+$('#score-form').submit(function (e){
 	var search_form = $(this);
 	var form_values = search_form.serializeObject();
 	
