@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="/styles/main.css"/>
 	<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 	<script type="text/javascript" src="/js/ga-track.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 
 	<!-- Google Analytics Social Button Tracking -->
 	<script type="text/javascript" src="https://s3.amazonaws.com/ha_js/ga_social_tracking.js"></script>
