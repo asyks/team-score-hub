@@ -5,6 +5,8 @@
 
 <link rel="shortcut icon" href="http://seo.modeaondemand.com/images/modea_logo_m.ico"/>
 <link rel="stylesheet" href="http://seo.modeaondemand.com/styles/main.css"/>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/js/ga-track.js"></script>
 
  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
     <script type='text/javascript'>
