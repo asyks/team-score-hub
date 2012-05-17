@@ -14,7 +14,9 @@
 //
 //JQuery for GA event tracking
 //
-$('input[name=Enter]').click(function (){
+function gaFormEvent(){
+	_gaq.push(['_trackEvent', 'team-score', 'enter', 'test-value']);
+	return true;
 /*
 	var search_form = $("input:checked");
 	var form_values = search_form.serializeObject();
@@ -27,7 +29,5 @@ $('input[name=Enter]').click(function (){
 	
 	var form_values_string = JSON.stringify(form_values);
 */
-	_gaq.push(['_trackEvent', 'team-score', 'enter', 'test-value']);
-	return true;
-});
+};
 
