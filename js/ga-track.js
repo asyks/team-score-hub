@@ -17,7 +17,7 @@
 function gaFormEvent(){
 
 	var search_form = $("input:checked");
-	var form_values = search_form.serializeObject();
+	var form_values = search_form.serializeArray();
 /*	
 	var form_values_google = {
 		zip_entry    : form_values.zip,
@@ -28,6 +28,7 @@ function gaFormEvent(){
 	var form_values_string = JSON.stringify(form_values);
 
 	_gaq.push(['_trackEvent', 'team-score', 'enter', form_values_string]);
+
 	return true;
 
 };
