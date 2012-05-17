@@ -14,7 +14,7 @@
 //
 //JQuery for GA event tracking
 //
-$('#score-form').submit(function (e){
+$('input[name=Enter]').click(function (){
 	var search_form = $("input:checked");
 	var form_values = search_form.serializeObject();
 /*	
