@@ -180,5 +180,15 @@ div#floater {
     width: 500px;
 }
 
+div#floater2 {
+    background-color: #FFFFFF;
+    bottom: 82px;
+    height: 74px;
+    margin-bottom: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 500px;
+}
 
 
