@@ -8,4 +8,3 @@ function countChecked() {
 	var n = $("input:checked").length;
 	for(var x = 0; x < n; x++) { $("#surveys2").append(iframetag);}
 	}
-
