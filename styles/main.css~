@@ -62,13 +62,14 @@ h1 {
 }
 
 .formbody2 {
-	width:650px;
+	width:800px;
 	padding:.5em;
 	font-family:verdana, sans-serif;
 	color:#666;
 	text-align:left;
 	position:relative;
 	margin-left: auto;
+	margin-right: auto
 }
 
 .formtext {
@@ -117,6 +118,10 @@ div#surveys {
 	left: 29%
 }
 
+div#surveys {
+	width: 800px;
+	position:relative;
+} 
 .title {
 	font-family:verdana, sans-serif;
 	font-size: 5em;
@@ -192,10 +197,9 @@ div#floater {
 
 div#floater2 {
     background-color: #FFFFFF;
-    bottom: 82px;
+    bottom: 73px;
     height: 74px;
-    margin-bottom: 70px;
-    margin-left: auto;
+    margin-left: 200px;
     margin-right: auto;
     position: relative;
     width: 500px;
