@@ -118,7 +118,7 @@ div#surveys {
 	left: 29%
 }
 
-div#surveys {
+div#surveys2 {
 	width: 800px;
 	position:relative;
 } 

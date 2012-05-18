@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>Team Health Score</title>
+	<title>Team Health Score | What's your score</title>
 	<link rel="stylesheet" href="/styles/main.css"/>
 	<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
