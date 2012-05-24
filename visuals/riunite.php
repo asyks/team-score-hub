@@ -115,7 +115,7 @@
 
 <a href="/"><img src="/images/modea_logo.png" style="position:absolute;"/></a>
 
-<a href="#"><img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px"></a>
+<a href="/visuals/riunite.php"><img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px"></a>
 
 </div>
 
