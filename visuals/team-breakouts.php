@@ -438,7 +438,7 @@
 </head>
 
 <body>
-<img src="/images/modea_logo.png"/>
+<a href="/"><img src="/images/modea_logo.png"/></a>
 <div class="container">
 <div id='table1' class="title"></div>
 <div id='visualization1'></div>

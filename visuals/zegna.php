@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<img src="/images/zegna.jpg" style="position: relative; margin-left: 30px;">
+<a href="/visuals/zegna.php"><img src="/images/zegna.gif" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 

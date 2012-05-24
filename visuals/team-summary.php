@@ -36,7 +36,7 @@
 </head>
 
 <body>
-<img src="/images/modea_logo.png"/>
+<a href="/"><img src="/images/modea_logo.png"/></a>
 <div id='visualization' align='center'></div>
 </body
 
