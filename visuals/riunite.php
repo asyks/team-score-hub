@@ -115,7 +115,7 @@
 
 <a href="http://seo.modeaondemand.com/"><img src="/images/modea_logo.png" style="position:absolute;"/></a>
 
-<img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px">
+<a href="/"><img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px"></a>
 
 </div>
 
