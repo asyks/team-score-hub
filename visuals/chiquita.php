@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative; bottom:75px;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:75px;"/></a>
 
-<img src="/images/chiquita.gif" style="position: relative;">
+<a href="/visuals/chiquita.php"><img src="/images/chiquita.gif" style="position: relative;"></a>
 
 </div>
 

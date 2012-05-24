@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative; bottom:36px"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:36px"/></a>
 
-<img src="/images/disney.jpg" style="position: relative; margin-left: 30px;">
+<a href="/visuals/disney.php"><img src="/images/disney.jpg" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 

@@ -7,6 +7,8 @@
 
 <link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 <link rel="stylesheet" href="/styles/main.css"/>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/js/ga-track.js"></script>
 
  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
     <script type='text/javascript'>
@@ -111,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<img src="/images/levolor.gif" style="position: relative; margin-left: 30px;">
+<a href="/visuals/levolor.gi"><img src="/images/levolor.gif" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 

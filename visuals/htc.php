@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative; bottom:56px;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:56px;"/></a>
 
-<img src="/images/htc.jpg" style="position: relative; margin-left: 30px;">
+<a href="/visuals/htc.php"<img src="/images/htc.jpg" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 
