@@ -64,6 +64,12 @@
 		</br>
 		<a href=/visuals/levolor.php>Levolor</a>
 		</br>
+		<a href=/visuals/riunite.php>Levolor</a>
+		</br>
+		<a href=/visuals/uva.php>Levolor</a>
+		</br>
+		<a href=/visuals/zegna.php>Levolor</a>
+		</br>
 		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
 		<a href=/visuals/modea.php>Modea (internal projects)</a>
