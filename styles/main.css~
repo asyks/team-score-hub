@@ -170,7 +170,7 @@ div#index_title {
 
 div#floater {
     background-color: #FFFFFF;
-    bottom: 73px;
+    bottom: 82px;
     height: 74px;
     margin-left: auto;
     margin-right: auto;
