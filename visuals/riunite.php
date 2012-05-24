@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<a href="http://seo.modeaondemand.com/"><img src="/images/modea_logo.png" style="position:absolute;"/></a>
+<a href="/"><img src="/images/modea_logo.png" style="position:absolute;"/></a>
 
-<a href="/"><img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px"></a>
+<a href="#"><img src="/images/riunite.jpg" style="position: relative; margin-left: 230px; bottom:50px"></a>
 
 </div>
 
