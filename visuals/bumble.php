@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px;">
 
-<img src="/images/modea_logo.png" style="position:relative; bottom: 20px;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom: 20px;"/></a>
 
-<img src="/images/bumble.jpg" style="position: relative; margin-left: 15px;">
+<a href="/visuals/bumble.php"><img src="/images/bumble.jpg" style="position: relative; margin-left: 15px;"></a>
 
 </div>
 

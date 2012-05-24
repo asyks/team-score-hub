@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>Team Health Score</title>
+	<title>Team Health Score | What's your score</title>
 	<link rel="stylesheet" href="/styles/main.css"/>
 	<link rel="shortcut icon" href="/images/modea_logo_m.ico"/>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
@@ -29,7 +29,7 @@
 <body bgcolor="#CCCCCC">
 
 	<div id="index_header" class="header">
-		<img id="logo" src="/images/modea_logo.png"/>
+		<a href="/"><img id="logo" src="/images/modea_logo.png"/></a>
 		<div id="floater">
 			<div id="index_title">Team Health Score</div>
 		</div>

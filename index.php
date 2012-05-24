@@ -29,7 +29,7 @@
 <body bgcolor="#CCCCCC">
 
 	<div id="index_header" class="header">
-		<img id="logo" src="/images/modea_logo.png"/>
+		<a href="/"><img id="logo" src="/images/modea_logo.png"/></a>
 		<div id="floater">
 			<div id="index_title">Team Health Score</div>
 		</div>
