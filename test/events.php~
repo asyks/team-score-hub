@@ -22,7 +22,7 @@
 	</script>
 
 	<script type="text/javascript"> 
-	/*
+
 		function getFormValues() { 
                         	productValue = document.form.product.value 
                         	zipValue = document.form.zip.value 
@@ -36,9 +36,9 @@
 <body bgcolor="#CCCCCC">
 
 	<img id="logo" src="/images/modea_logo.png"/>
-<!--
+
 	<div id="content">
-	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum 
+	Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum  
 	Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit Lorem Ipsum Dolor sedit 
 		<form name="chiquita">
 		Product:<input type="text" name="product" onChange="getFormValues();"/>
