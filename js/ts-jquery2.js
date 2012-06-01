@@ -7,8 +7,13 @@ function countChecked() {
 	var form_values = $('input:checked').serializeArray();
 	var regex = new RegExp('=on','g');
 	var param_string = $.param(form_values).replace(regex, '');
+	var projects = param_string.split('&');
+	for(var y = 0; y < projects.length; y++) 
+	{
+		$('#surveys2').text(projects[y]);
+	};
+
 	$('#surveys2').empty();
 	var n = $("input:checked").length;
-	$('#surveys2').text(param_string);
 	for(var x = 0; x < n; x++) { $('#surveys2').append('<iframe src="https://docs.google.com/a/modea.com/spreadsheet/embeddedform?formkey=dGpYYXpUVjhCUzFlN0tKV2FOOUFhRkE6MQ&entry_51=Chiquita" width="760" height="1122" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>"0">Loading...</iframe>');}
 	}
