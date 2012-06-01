@@ -8,7 +8,7 @@ function countChecked() {
 	var regex = new RegExp('=on','g');
 	var param_string = $.param(form_values).replace(regex, '');
 	var projects = param_string.split('&');
-	$('#surveys2').text(projects.text());
+	$('#surveys2').text(projects);
 
 	$('#surveys2').empty();
 	var n = $("input:checked").length;
