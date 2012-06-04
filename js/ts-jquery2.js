@@ -1,6 +1,7 @@
 //
 // Counts the number of boxes checked on the Team Score Survey Page
 // and appends the same number of google docs form iframes to the div#surveys
+// appending the name of each project as a query string parameter to the survey embed iframe
 //
 function countChecked() {
 	
@@ -9,7 +10,6 @@ function countChecked() {
 	var param_string = $.param(form_values).replace(regex, '');
 	$('#surveys2').empty();
 	var projects = param_string.split('&');
-//	var n = $("input:checked").length;
 	var n = projects.length;
 	for(var x = 0; x < n; x++) 
 	{ 
