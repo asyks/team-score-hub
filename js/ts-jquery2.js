@@ -9,9 +9,9 @@ function countChecked() {
 	var param_string = $.param(form_values).replace(regex, '');
 	$('#surveys2').empty();
 
-	$('#surveys2').text(param_string);
+//	$('#surveys2').text(param_string);
 	var projects = param_string.split('&');
-//	$('#surveys2').text(projects.join(','));
+	$('#surveys2').text(projects.join(','));
 
 	var n = $("input:checked").length;
 	for(var x = 0; x < n; x++) 
