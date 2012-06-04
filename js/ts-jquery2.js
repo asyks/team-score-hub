@@ -9,7 +9,8 @@ function countChecked() {
 	var param_string = $.param(form_values).replace(regex, '');
 	$('#surveys2').empty();
 	var projects = param_string.split('&');
-	var n = $("input:checked").length;
+//	var n = $("input:checked").length;
+	var n = projects.length;
 	for(var x = 0; x < n; x++) 
 	{ 
 		$('#surveys2').append('<iframe src="https://docs.google.com/a/modea.com/spreadsheet/embeddedform?formkey=dGpYYXpUVjhCUzFlN0tKV2FOOUFhRkE6MQ&entry_51=' + projects[x] + '" width="760" height="1122" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>');
