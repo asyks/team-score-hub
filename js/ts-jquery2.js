@@ -16,6 +16,7 @@ function countChecked() {
 	var n = $("input:checked").length;
 	for(var x = 0; x < n; x++) 
 	{ 
-		$('$surveys2').text(projects[x])
-		$('#surveys2').append('<iframe src="https://docs.google.com/a/modea.com/spreadsheet/embeddedform?formkey=dGpYYXpUVjhCUzFlN0tKV2FOOUFhRkE6MQ&entry_51=Chiquita" width="760" height="1122" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>');}
+		$('$surveys2').text(projects[x]);
+		$('#surveys2').append('<iframe src="https://docs.google.com/a/modea.com/spreadsheet/embeddedform?formkey=dGpYYXpUVjhCUzFlN0tKV2FOOUFhRkE6MQ&entry_51=Chiquita" width="760" height="1122" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>');
 	}
+}
