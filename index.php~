@@ -64,11 +64,11 @@
 		</br>
 		<a href=/visuals/levolor.php>Levolor</a>
 		</br>
-		<a href=/visuals/riunite.php>Levolor</a>
+		<a href=/visuals/riunite.php>Riunite</a>
 		</br>
-		<a href=/visuals/uva.php>Levolor</a>
+		<a href=/visuals/uva.php>UVA Health System</a>
 		</br>
-		<a href=/visuals/zegna.php>Levolor</a>
+		<a href=/visuals/zegna.php>Zegna</a>
 		</br>
 		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
