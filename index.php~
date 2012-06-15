@@ -37,7 +37,7 @@
 	
 	<!--Text links to Team Health Survey Test Pages-->
 	<div id="content">
-		<a href=/survey2.html>Take the Survey!</a>
+		<a href=/survey2.html>Take the Survey</a>
 		</br>
 		</br>
 		View the Results:
