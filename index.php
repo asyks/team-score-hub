@@ -48,8 +48,6 @@
 		</br>
 		<a href=/visuals/chiquita.php>Chiquita</a>
 		</br>
-		<a href=/visuals/vitrue.php>Vitrue</a>
-		</br>
 		<a href=/visuals/bumble.php>Bumble & Bumble</a>
 		</br>
 		<a href=/visuals/lenox.php>LENOX</a>
