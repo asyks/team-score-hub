@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<img src="/images/modea_logo.png" style="position:relative;"/>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/><a/>
 
-<img src="/images/modea_logo.png" style="position: relative; margin-left: 30px;">
+<a href="/visuals/modea.php"><img src="/images/modea_logo.png" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 

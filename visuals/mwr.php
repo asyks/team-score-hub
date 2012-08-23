@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vitrue</title>
+<title>Michael Waltrip Racing</title>
 
 <meta property="og:url" content="http://seo.modeaondemand.com/chiquita"/>
 

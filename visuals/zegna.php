@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vitrue</title>
+<title>Zegna</title>
 
 <meta property="og:url" content="http://seo.modeaondemand.com/chiquita"/>
 
