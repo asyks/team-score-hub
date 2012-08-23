@@ -68,6 +68,10 @@
 		</br>
 		<a href=/visuals/zegna.php>Zegna</a>
 		</br>
+		<a href=/visuals/mwr.php>Michael Waltrip Racing</a>
+		</br>
+		<a href=/visuals/maxpoint.php>MaxPoint</a>
+		</br>
 		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
 		<a href=/visuals/modea.php>Modea (internal projects)</a>

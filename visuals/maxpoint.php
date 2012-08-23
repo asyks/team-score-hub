@@ -115,7 +115,7 @@
 
 <a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<a href="/visuals/zegna.php"><img src="/images/maxpoint.gif" style="position: relative; margin-left: 30px;"></a>
+<a href="/visuals/zegna.php"><img src="/images/maxpoint.png" style="position: relative; margin-left: 30px;"></a>
 
 </div>
 
