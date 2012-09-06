@@ -35,7 +35,7 @@
 		</div>
 	</div>
 	
-	<!--Text links to Team Health Survey Test Pages-->
+	<!--links to Team Health Survey visualization Pages-->
 	<div id="content">
 		<a href=/survey.html>Take the Survey</a>
 		</br>
@@ -48,19 +48,11 @@
 		</br>
 		<a href=/visuals/chiquita.php>Chiquita</a>
 		</br>
-		<a href=/visuals/bumble.php>Bumble & Bumble</a>
-		</br>
 		<a href=/visuals/lenox.php>LENOX</a>
-		</br>
-		<a href=/visuals/5he.php>5 Hour Energy</a>
-		</br>
-		<a href=/visuals/rackspace.php>Rackspace</a>
 		</br>
 		<a href=/visuals/htc.php>HTC</a>
 		</br>
 		<a href=/visuals/disney.php>Disney</a>
-		</br>
-		<a href=/visuals/levolor.php>Levolor</a>
 		</br>
 		<a href=/visuals/banfi.php>Banfi / Riunite</a>
 		</br>
@@ -68,15 +60,13 @@
 		</br>
 		<a href=/visuals/zegna.php>Zegna</a>
 		</br>
-		<a href=/visuals/mwr.php>Michael Waltrip Racing</a>
-		</br>
 		<a href=/visuals/maxpoint.php>MaxPoint</a>
 		</br>
 		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
 		<a href=/visuals/modea.php>Modea (internal projects)</a>
 	
-		<!--Social buttons: Facebook, Twitter, Google+-->
+		<!--Social buttons: Facebook,kTwitter, Google+-->
 		<div id="social" class="social">
 	
 			<!-- Twitter follow us button -->
