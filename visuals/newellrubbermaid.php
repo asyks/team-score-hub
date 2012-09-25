@@ -22,7 +22,7 @@
 		loadChart5();
 	}	
       function loadChart1() {
-	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F1%3AG100&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=56&headers=-1");
+	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F1%3AG100&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=58&headers=-1");
 	      query.send(drawChart1);
       }
       function drawChart1(chartData1) {
@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:75px;"/></a>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<a href="/visuals/newellrubbermaid.php"><img src="/images/newellrubbermaid.jpg" style="position: relative;"></a>
+<a href="/visuals/newellrubbermaid.php"><img src="/images/newellrubbermaid.jpg" style="position: relative; bottom: 10px; margin-left: 20px;"></a>
 
 </div>
 

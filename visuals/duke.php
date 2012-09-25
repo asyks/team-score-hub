@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:75px;"/></a>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<a href="/visuals/duke.php"><img src="/images/duke.gif" style="position: relative;"></a>
+<a href="/visuals/duke.php"><img src="/images/duke.gif" style="position: relative; bottom: 10px; margin-left: 20px;"></a>
 
 </div>
 

@@ -113,9 +113,9 @@
 
 <div id="project_images" style="height:160px">
 
-<a href="/"><img src="/images/modea_logo.png" style="position:relative; bottom:75px;"/></a>
+<a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<a href="/visuals/ntelos.php"><img src="/images/ntelos.gif" style="position: relative;"></a>
+<a href="/visuals/ntelos.php"><img src="/images/ntelos.png" style="position: relative;"></a>
 
 </div>
 
