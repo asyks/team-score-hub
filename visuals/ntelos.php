@@ -115,7 +115,7 @@
 
 <a href="/"><img src="/images/modea_logo.png" style="position:relative;"/></a>
 
-<a href="/visuals/ntelos.php"><img src="/images/ntelos.jpg" style="position: relative;"></a>
+<a href="/visuals/ntelos.php"><img src="/images/ntelos.jpg" style="position: relative; margin-left: 20px;"></a>
 
 </div>
 
