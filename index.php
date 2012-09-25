@@ -62,6 +62,12 @@
 		</br>
 		<a href=/visuals/maxpoint.php>MaxPoint</a>
 		</br>
+		<a href=/visuals/newellrubbermaid.php>Newell Rubbermaid</a>
+		</br>
+		<a href=/visuals/ntelos.php>nTelos</a>
+		</br>
+		<a href=/visuals/duke.php>Duke Health</a>
+		</br>
 		<a href=/visuals/modeacare.php>ModeaCare</a>
 		</br>
 		<a href=/visuals/modea.php>Modea (internal projects)</a>
