@@ -38,7 +38,7 @@
 	chart1.draw(chartData1.getDataTable(), options);
       }
       function loadChart2() {
-	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F3%3AG4&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=56&headers=-1");
+	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F3%3AG4&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=65&headers=-1");
 		query.send(drawChart2);
       }
       function drawChart2(chartData2) {
@@ -54,7 +54,7 @@
 	chart2.draw(chartData2.getDataTable(), options);
       }
       function loadChart3() {
-	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F1%3AG2&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=56&headers=-1");
+	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=F1%3AG2&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=65&headers=-1");
 		query.send(drawChart3);
       }
       function drawChart3(chartData3) {
@@ -71,7 +71,7 @@
       }
 
       function loadChart4() {
-	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A1%3AE2&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=56&headers=-1");
+	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A1%3AE2&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=65&headers=-1");
 		query.send(drawChart4);
       }
       function drawChart4(chartData4) {
@@ -88,7 +88,7 @@
       }
 
 	function loadChart5() {
-	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A3%3AE4&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=56&headers=-1");
+	      var query = new google.visualization.Query("https://docs.google.com/a/modea.com/spreadsheet/tq?range=A3%3AE4&key=0AoTNJnkeM_tBdC1aQ0E2RGlyMmlQaEZUMmhjOElzaUE&gid=65&headers=-1");
 		query.send(drawChart5);
       }
       function drawChart5(chartData5) {
