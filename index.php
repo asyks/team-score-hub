@@ -60,8 +60,6 @@
 		</br>
 		<a href=/visuals/zegna.php>Zegna</a>
 		</br>
-		<a href=/visuals/maxpoint.php>MaxPoint</a>
-		</br>
 		<a href=/visuals/newellrubbermaid.php>Newell Rubbermaid</a>
 		</br>
 		<a href=/visuals/ntelos.php>nTelos</a>
